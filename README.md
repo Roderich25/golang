@@ -1,2 +1,1 @@
-#GO language
-Learning golang 
+#GO Language
